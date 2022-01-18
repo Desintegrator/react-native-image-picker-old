@@ -1,0 +1,69 @@
+{
+  "_from": "https://npm.eigenframe.com/MuStar/react-native-image-picker",
+  "_id": "react-native-image-picker@0.26.7",
+  "_inBundle": false,
+  "_integrity": "sha512-UQs31U5Cwh+Ccuqx7vrN/mTvIIO68MLg5clom6hdXV558m70VvuyG9TY9T8918kiN5QhKUQctrdijQDFVKVhPw==",
+  "_location": "/react-native-image-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "react-native-image-picker@https://npm.eigenframe.com/MuStar/react-native-image-picker",
+    "name": "react-native-image-picker",
+    "escapedName": "react-native-image-picker",
+    "rawSpec": "https://npm.eigenframe.com/MuStar/react-native-image-picker",
+    "saveSpec": "https://npm.eigenframe.com/MuStar/react-native-image-picker",
+    "fetchSpec": "https://npm.eigenframe.com/MuStar/react-native-image-picker"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://npm.eigenframe.com/MuStar/react-native-image-picker",
+  "_shasum": "ad2ee957f7f6cc01396893ea03d84cb2adb2e376",
+  "_spec": "react-native-image-picker@https://npm.eigenframe.com/MuStar/react-native-image-picker",
+  "_where": "/Volumes/MacSSD/Projects/MustarReact",
+  "author": {
+    "name": "Marc Shilling",
+    "url": "marcshilling"
+  },
+  "bugs": {
+    "url": "https://github.com/marcshilling/react-native-image-picker/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Matheus Santos",
+      "email": "vorj.dux@gmail.com"
+    },
+    {
+      "name": "Yoann Fuks",
+      "email": "yfuks@student.42.fr"
+    },
+    {
+      "name": "Alexander Ustinov",
+      "email": "rusfearuth@gmail.com"
+    }
+  ],
+  "deprecated": false,
+  "description": "A React Native module that allows you to use native UI to select media from the device library or directly from the camera",
+  "homepage": "https://github.com/marcshilling/react-native-image-picker#readme",
+  "keywords": [
+    "react-native",
+    "react-native-image-picker",
+    "react",
+    "native",
+    "image",
+    "picker"
+  ],
+  "main": "index.js",
+  "name": "react-native-image-picker",
+  "nativePackage": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcshilling/react-native-image-picker.git"
+  },
+  "scripts": {
+    "prepare": "rm -rf android/build Example/android/build Example/android/app/build node_modules"
+  },
+  "types": "./index.d.ts",
+  "version": "0.26.7"
+}
